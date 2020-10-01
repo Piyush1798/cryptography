@@ -1,5 +1,6 @@
 # This is New Project 
 # Importing necessary packages 
+# This project is made for learning purpose
 import tkinter as tk 
 from tkinter import *
 from pytube import YouTube 
@@ -67,6 +68,10 @@ def Widgets():
 
 def si():
 	print("WELCOME !!")
+
+	
+def pending():
+	print("project is still pending!!")
 
 def Browse(): 
 	# Presenting user with a pop-up for 
